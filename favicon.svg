@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#d4101f"/>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2" stroke-linecap="round">
+    <path d="M0 0 64 64M64 0 0 64M32 0v64M0 32h64"/>
+    <path d="M32 12 46 18 52 32 46 46 32 52 18 46 12 32 18 18Z"/>
+  </g>
+  <text x="32" y="43" text-anchor="middle" font-family="Arial Narrow, Arial, sans-serif" font-weight="900" font-size="30" fill="#151214">AK</text>
+</svg>

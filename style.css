@@ -202,7 +202,7 @@ ul { margin: 0; padding: 0; list-style: none; }
 .tape-item { font-weight: 800; font-size: clamp(0.95rem, 1.5vw, 1.25rem); letter-spacing: 0.03em; text-transform: uppercase; white-space: nowrap; }
 .tape-tile {
   width: clamp(54px, 5vw, 76px); aspect-ratio: 4 / 3; flex: none;
-  background: var(--red-dark) url("../assets/img/tape-tile.webp") center / cover no-repeat;
+  background: var(--red-dark) url("tape-tile.webp") center / cover no-repeat;
   border-inline: 2px solid rgba(0, 0, 0, 0.35);
 }
 

@@ -11,7 +11,7 @@ const SITE = {
   // Paste your full LinkedIn URL between the quotes, e.g.
   // "https://www.linkedin.com/in/aniket-kolhe-123abc/"
   // While this is empty, the LinkedIn link stays hidden.
-  linkedin: "",
+  linkedin: "https://www.linkedin.com/in/aniket-kolhe-b860203b3/",
   email: "Aniketkolhe88@gmail.com",
 };
 
